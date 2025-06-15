@@ -1,0 +1,242 @@
+{
+    "page": 1,
+    "limit": 10,
+    "total": 42,
+    "developers": [
+        {
+            "id": "1",
+            "name": "Jane Doe",
+            "avatar": "https://api.dicebear.com/9.x/adventurer/svg?seed=Eliza",
+            "bio": "Full-stack developer passionate about React and Node.js.",
+            "skills": [
+                "React",
+                "Node.js",
+                "GraphQL",
+                "Tailwind CSS"
+            ],
+            "socialLinks": {
+                "github": "https://github.com/janedoe",
+                "linkedin": "https://linkedin.com/in/janedoe",
+                "twitter": "https://twitter.com/janedoe"
+            },
+            "blogs": [
+                {
+                    "id": "blog001",
+                    "title": "Optimizing React Apps",
+                    "excerpt": "Learn how to optimize performance in large-scale React applications...",
+                    "publishedDate": "2024-12-01"
+                },
+                {
+                    "id": "blog002",
+                    "title": "Intro to GraphQL",
+                    "excerpt": "GraphQL is a query language for APIs and a runtime for executing those queries...",
+                    "publishedDate": "2025-01-15"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "John Smith",
+            "avatar": "https://api.dicebear.com/9.x/adventurer/svg?seed=Leah",
+            "bio": "Backend engineer with love for scalable Node.js services.",
+            "skills": [
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "Docker"
+            ],
+            "socialLinks": {
+                "github": "https://github.com/johnsmith",
+                "linkedin": "https://linkedin.com/in/johnsmith"
+            },
+            "blogs": [
+                {
+                    "id": "blog003",
+                    "title": "Node.js Scaling Patterns",
+                    "excerpt": "In this article, we'll explore horizontal scaling strategies in Node.js...",
+                    "publishedDate": "2025-02-20"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Jack Clark",
+            "avatar": "https://api.dicebear.com/9.x/adventurer/svg?seed=Jack",
+            "bio": "Enthusiastic developer working with modern web technologies.",
+            "skills": [
+                "Tailwind CSS",
+                "Vue",
+                "GraphQL",
+                "Angular"
+            ],
+            "socialLinks": {
+                "github": "https://github.com/bobclark",
+                "linkedin": "https://linkedin.com/bobclark"
+            },
+            "blogs": [
+                {
+                    "id": "blog7587",
+                    "title": "TypeScript Tips",
+                    "excerpt": "An intro to typescript tips and how to use it effectively...",
+                    "publishedDate": "2024-09-26"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Bob Garcia",
+            "avatar": "https://api.dicebear.com/9.x/adventurer/svg?seed=Aidan",
+            "bio": "Enthusiastic developer working with modern web technologies.",
+            "skills": [
+                "Vue",
+                "Tailwind CSS",
+                "TypeScript",
+                "JavaScript"
+            ],
+            "socialLinks": {
+                "github": "https://github.com/bobgarcia",
+                "twitter": "https://twitter.com/bobgarcia"
+            },
+            "blogs": [
+                {
+                    "id": "blog7344",
+                    "title": "Building APIs with GraphQL",
+                    "excerpt": "An intro to building apis with graphql and how to use it effectively...",
+                    "publishedDate": "2024-10-25"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Fiona Johnson",
+            "avatar": "https://api.dicebear.com/9.x/adventurer/svg?seed=Vivian",
+            "bio": "Enthusiastic developer working with modern web technologies.",
+            "skills": [
+                "Node.js",
+                "TypeScript",
+                "Vue",
+                "JavaScript",
+                "React"
+            ],
+            "socialLinks": {
+                "linkedin": "https://linkedin.com/fionajohnson"
+            },
+            "blogs": [
+                {
+                    "id": "blog8481",
+                    "title": "Building APIs with GraphQL",
+                    "excerpt": "An intro to building apis with graphql and how to use it effectively...",
+                    "publishedDate": "2024-12-14"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Mason Lee",
+            "avatar": "https://api.dicebear.com/9.x/adventurer/svg?seed=Mason",
+            "bio": "Enthusiastic developer working with modern web technologies.",
+            "skills": [
+                "React"
+            ],
+            "socialLinks": {
+                "linkedin": "https://linkedin.com/test6"
+            },
+            "blogs": [
+                {
+                    "id": "blog8481",
+                    "title": "Building APIs with GraphQL",
+                    "excerpt": "An intro to building apis with graphql and how to use it effectively...",
+                    "publishedDate": "2024-12-14"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Jocelyn Smith",
+            "avatar": "https://api.dicebear.com/9.x/adventurer/svg?seed=Jocelyn",
+            "bio": "Backend engineer with love for scalable Node.js services.",
+            "skills": [
+                "Node.js",
+                "Express",
+                "Docker"
+            ],
+            "socialLinks": {
+                "github": "https://github.com/johnsmith",
+                "linkedin": "https://linkedin.com/in/johnsmith"
+            },
+            "blogs": [
+                {
+                    "id": "blog003",
+                    "title": "Node.js Scaling Patterns",
+                    "excerpt": "In this article, we'll explore horizontal scaling strategies in Node.js...",
+                    "publishedDate": "2025-02-20"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Christopher Smith",
+            "avatar": "https://api.dicebear.com/9.x/adventurer/svg?seed=Christopher",
+            "bio": "Backend engineer with love for scalable Node.js services.",
+            "skills": [
+                "Node.js"
+            ],
+            "socialLinks": {
+                "github": "https://github.com/johnsmith",
+                "linkedin": "https://linkedin.com/in/johnsmith"
+            },
+            "blogs": [
+                {
+                    "id": "blog003",
+                    "title": "Node.js Scaling Patterns",
+                    "excerpt": "In this article, we'll explore horizontal scaling strategies in Node.js...",
+                    "publishedDate": "2025-02-20"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "George Smith",
+            "avatar": "https://api.dicebear.com/9.x/adventurer/svg?seed=George",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "skills": [
+                "Node.js"
+            ],
+            "socialLinks": {
+                "github": "https://github.com/johnsmith",
+                "linkedin": "https://linkedin.com/in/johnsmith"
+            },
+            "blogs": [
+                {
+                    "id": "blog003",
+                    "title": "Node.js Scaling Patterns",
+                    "excerpt": "In this article, we'll explore horizontal scaling strategies in Node.js...",
+                    "publishedDate": "2025-02-20"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Aiden Smith",
+            "avatar": "https://api.dicebear.com/9.x/adventurer/svg?seed=Aiden",
+            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "skills": [
+                "Node.js",
+                "Next.js"
+            ],
+            "socialLinks": {
+                "github": "https://github.com/johnsmith",
+                "linkedin": "https://linkedin.com/in/johnsmith"
+            },
+            "blogs": [
+                {
+                    "id": "blog003",
+                    "title": "Node.js Scaling Patterns",
+                    "excerpt": "In this article, we'll explore horizontal scaling strategies in Node.js...",
+                    "publishedDate": "2025-02-20"
+                }
+            ]
+        }
+        
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "page": 1,
+    "limit": 10,
+    "total": 42,
+    "developers": [
+        {
+            "id": 1,
+            "name": "Alice Johnson",
+            "age": 28,
+            "language": "JavaScript",
+            "experience": 5,
+            "location": "New York"
+        },
+        {
+            "id": 2,
+            "name": "Brian Lee",
+            "age": 32,
+            "language": "Python",
+            "experience": 7,
+            "location": "San Francisco"
+        },
+        {
+            "id": 3,
+            "name": "Carla Gomez",
+            "age": 25,
+            "language": "Java",
+            "experience": 3,
+            "location": "Austin"
+        },
+        {
+            "id": 4,
+            "name": "David Kim",
+            "age": 30,
+            "language": "C#",
+            "experience": 6,
+            "location": "Seattle"
+        },
+        {
+            "id": 5,
+            "name": "Eva Brown",
+            "age": 27,
+            "language": "Ruby",
+            "experience": 4,
+            "location": "Chicago"
+        },
+        {
+            "id": 6,
+            "name": "Frank Wilson",
+            "age": 35,
+            "language": "Go",
+            "experience": 10,
+            "location": "Boston"
+        },
+        {
+            "id": 7,
+            "name": "Grace Lin",
+            "age": 29,
+            "language": "TypeScript",
+            "experience": 6,
+            "location": "Los Angeles"
+        },
+        {
+            "id": 8,
+            "name": "Henry Patel",
+            "age": 31,
+            "language": "PHP",
+            "experience": 8,
+            "location": "Houston"
+        },
+        {
+            "id": 9,
+            "name": "Isabel Martinez",
+            "age": 26,
+            "language": "Swift",
+            "experience": 4,
+            "location": "Miami"
+        },
+        {
+            "id": 10,
+            "name": "Jack Chen",
+            "age": 33,
+            "language": "Kotlin",
+            "experience": 9,
+            "location": "Denver"
+        },
+        {
+            "id": 11,
+            "name": "Karen Smith",
+            "age": 24,
+            "language": "Scala",
+            "experience": 2,
+            "location": "Portland"
+        },
+        {
+            "id": 12,
+            "name": "Leo Nguyen",
+            "age": 36,
+            "language": "Rust",
+            "experience": 12,
+            "location": "Dallas"
+        },
+        {
+            "id": 13,
+            "name": "Maria Rossi",
+            "age": 27,
+            "language": "Perl",
+            "experience": 5,
+            "location": "San Diego"
+        },
+        {
+            "id": 14,
+            "name": "Nina Ivanova",
+            "age": 29,
+            "language": "C++",
+            "experience": 7,
+            "location": "Atlanta"
+        },
+        {
+            "id": 15,
+            "name": "Oscar Silva",
+            "age": 34,
+            "language": "Elixir",
+            "experience": 11,
+            "location": "Orlando"
+        },
+        {
+            "id": 16,
+            "name": "Priya Singh",
+            "age": 28,
+            "language": "Dart",
+            "experience": 6,
+            "location": "Phoenix"
+        },
+        {
+            "id": 17,
+            "name": "Quentin Dubois",
+            "age": 31,
+            "language": "Objective-C",
+            "experience": 8,
+            "location": "Philadelphia"
+        },
+        {
+            "id": 18,
+            "name": "Rita Müller",
+            "age": 26,
+            "language": "Haskell",
+            "experience": 4,
+            "location": "Minneapolis"
+        },
+        {
+            "id": 19,
+            "name": "Samir Ali",
+            "age": 30,
+            "language": "C",
+            "experience": 7,
+            "location": "Detroit"
+        },
+        {
+            "id": 20,
+            "name": "Tina Wang",
+            "age": 25,
+            "language": "F#",
+            "experience": 3,
+            "location": "Charlotte"
+        },
+        {
+            "id": 21,
+            "name": "Umar Farooq",
+            "age": 32,
+            "language": "R",
+            "experience": 8,
+            "location": "Baltimore"
+        },
+        {
+            "id": 22,
+            "name": "Vera Novak",
+            "age": 29,
+            "language": "MATLAB",
+            "experience": 6,
+            "location": "Las Vegas"
+        },
+        {
+            "id": 23,
+            "name": "Will Turner",
+            "age": 27,
+            "language": "Shell",
+            "experience": 5,
+            "location": "San Jose"
+        },
+        {
+            "id": 24,
+            "name": "Xinyi Zhao",
+            "age": 34,
+            "language": "Lua",
+            "experience": 10,
+            "location": "Columbus"
+        },
+        {
+            "id": 25,
+            "name": "Yara Haddad",
+            "age": 28,
+            "language": "Groovy",
+            "experience": 6,
+            "location": "Indianapolis"
+        },
+        {
+            "id": 26,
+            "name": "Zane Cooper",
+            "age": 31,
+            "language": "VB.NET",
+            "experience": 8,
+            "location": "Nashville"
+        },
+        {
+            "id": 27,
+            "name": "Ava Scott",
+            "age": 26,
+            "language": "COBOL",
+            "experience": 4,
+            "location": "Louisville"
+        },
+        {
+            "id": 28,
+            "name": "Benito Cruz",
+            "age": 35,
+            "language": "Fortran",
+            "experience": 11,
+            "location": "Oklahoma City"
+        },
+        {
+            "id": 29,
+            "name": "Chloe Dubois",
+            "age": 30,
+            "language": "Julia",
+            "experience": 7,
+            "location": "Milwaukee"
+        },
+        {
+            "id": 30,
+            "name": "Diego Torres",
+            "age": 33,
+            "language": "Assembly",
+            "experience": 9,
+            "location": "Tucson"
+        }
+    ]
+}
