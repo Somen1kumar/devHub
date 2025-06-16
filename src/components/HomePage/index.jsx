@@ -3,6 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { addDeveloperData } from '../../redux/reducer';
 import Slider from "./utils/Slider";
 import { TotalConstant } from './utils/constants';
+import data from './data/dummyData.json';
 import SearchBox from '../../packagesUi/searchBlock/index';
 const Index = () => {
   const selector = useSelector((store) => store.userStore.isDarkTheme);
@@ -13,13 +14,13 @@ const Index = () => {
   const fetchData = async () => {
     const res = await fetch('https://26c902d6-9098-4ed4-a02c-81508090233b.mock.pstmn.io/developerList1');
     const json = await res.json();
-    console.log(json);
     if (!res.ok) {
       throw new Error('Network response was not ok');
     }
-    setDeveloperData(json?.developers || []);
-    setDeveloperFilterData(json?.developers || []);
-    dispatch(addDeveloperData(json?.developers || []));
+    const newData =  json?.developers ?? data;
+    setDeveloperData(newData);
+    setDeveloperFilterData(newData);
+    dispatch(addDeveloperData(newData));
   }
   const handleResize = () => {
     const width = window.innerWidth;
