@@ -11,15 +11,15 @@ const Index = () => {
   const [deviceType, setDeviceType] = useState(1);
   const [developerFilterData, setDeveloperFilterData] = useState([]);
   const fetchData = async () => {
-    const res = await fetch('http://localhost:3001/developers');
+    const res = await fetch('https://26c902d6-9098-4ed4-a02c-81508090233b.mock.pstmn.io/developerList1');
     const json = await res.json();
     console.log(json);
     if (!res.ok) {
       throw new Error('Network response was not ok');
     }
-    setDeveloperData(json);
-    setDeveloperFilterData(json);
-    dispatch(addDeveloperData(json));
+    setDeveloperData(json?.developers || []);
+    setDeveloperFilterData(json?.developers || []);
+    dispatch(addDeveloperData(json?.developers || []));
   }
   const handleResize = () => {
     const width = window.innerWidth;
